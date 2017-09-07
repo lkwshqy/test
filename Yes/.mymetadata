@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Yes"
+  id="myeclipse.1504755112953"
+  context-root="/Yes"
+  j2ee-spec="5.0"
+  archive="Yes.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
